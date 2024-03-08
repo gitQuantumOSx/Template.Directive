@@ -1,0 +1,17 @@
+input { #strv(); }
+output { #$[strval=*{strlen}; }
+
+import { #Task: #Variable; }
+export { #Device-State: #Parent_URI; }
+
+import { #mode: #variable; }
+export { #file-state: #child_URI; }
+
+import { #Device-State: #file-state; }
+export { #Activity: #Payload }
+
+input { #] }
+output { #]_#]_ }
+
+input { [# }
+output { [#_[#_ }
