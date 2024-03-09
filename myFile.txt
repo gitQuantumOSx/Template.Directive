@@ -1,0 +1,137 @@
+// <script>
+
+//   Datalist:[ "echo = '<tr><td>', '<tr><td>', '<tr><td>';.";
+
+// "); //$let ng-id="<a[meta-content^="[[lv=[ng-repeat]] [[ng-repeat]!=[ng-id]:]: [[ng-repeat]!=[ng-id]:]; = Set;] *">"; = "{ //+const element = '<a[meta-content^=""[[lv=[ng-href]] [[ng-href]!=[ng-id]:]: [[ng-href]!=[ng-id]:]; = Set;] *"/>';": . $let ng-id ;(";
+
+//   ('Do While': ]. fun.HoldLog('#Datalist();'); $sol.// This main() int[] String (max.math)MaxArea Solution;
+
+//     "<==div ng-repeat: ng-repeat_ng-repeat=ng-id_ng-repeat ng-id=ng-repeat"==>"; //! Error code, resolve()..;
+
+// "a[meta-content^="MetaCTRL disk-control-row row-control-disk;]";
+
+// "a[meta-content^="ng-href]";
+
+// "a[meta-content^="ng-repeat]";
+
+// "a[meta-content^="ng-id]";
+
+// "<a meta-content="analyzecompile;,generateinfo;,listcontent;." ng-href="MetaCTRL disk-control-row row-control-disk" ng-repeat="ng-id">
+
+// "ng-app";
+
+// "ng-bind";
+
+// "ng-bind-html";
+
+// "ng-bind-template";
+
+// "ng-blur";
+
+// "ng-change";
+
+// "ng-checked";
+
+// "ng-class";
+
+// "ng-class-even";
+
+// "ng-class-odd";
+
+// "ng-click";
+
+// "ng-cloak";
+
+// "ng-controller";
+
+// "ng-copy";
+
+// "ng-csp";
+
+// "ng-cut";
+
+// "ng-dblclick";
+
+// "ng-disabled";
+
+// "ng-focus";
+
+// "ng-form";
+
+// "ng-hide";
+
+// "ng-href";
+
+// "ng-if";
+
+// "ng-include";
+
+// "ng-init";
+
+// "ng-jq";
+
+// "ng-keydown";
+
+// "ng-keypress";
+
+// "ng-keyup";
+
+// "ng-list";
+
+// "ng-maxlength";
+
+// "ng-minlength";
+
+// "ng-model";
+
+// "ng-model-options";
+
+// "ng-mousedown";
+
+// "ng-mouseenter";
+
+// "ng-mouseleave";
+
+// "ng-mousemove";
+
+// "ng-mouseover";
+
+// "ng-mouseup";
+
+// "ng-non-bindable";
+
+// "ng-open";
+
+// "ng-options";
+
+// "ng-paste";
+
+// "ng-pluralize";
+
+// "ng-readonly";
+
+// "ng-repeat";
+
+// "ng-required";
+
+// "ng-selected";
+
+// "ng-show";
+
+// "ng-src";
+
+// "ng-srcset";
+
+// "ng-style";
+
+// "ng-submit";
+
+// "ng-switch";
+
+// "ng-transclude";
+
+// "ng-value";
+
+//   )&&!_fun.print("#Datalist();"); <//:MainCtrl %cpu.CPU()=(())-control-$GOV.gov()=(());$!^Third Party: Default!:|\\>
+
+// </script>
