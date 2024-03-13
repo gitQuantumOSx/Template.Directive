@@ -1,5 +1,5 @@
-input { #strv(); }
-output { #$[strval=*{strlen}; }
+input { #] }
+output { #]_#]_ }
 
 import { #Task: #Variable; }
 export { #Device-State: #Parent_URI; }
@@ -9,9 +9,6 @@ export { #file-state: #child_URI; }
 
 import { #Device-State: #file-state; }
 export { #Activity: #Payload }
-
-input { #] }
-output { #]_#]_ }
 
 input { [# }
 output { [#_[#_ }
