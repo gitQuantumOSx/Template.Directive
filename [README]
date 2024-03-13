@@ -30,19 +30,39 @@ foreach:
     API-CATALOGUE-2 as USB 3.0 (Inlst) list1, list2
       ')
   }}
+{.Switch Case (n) list1,list2 {
+  {{
+  ('
+    BLE-CATALOGUE-1 USB 3.0 (USBTYPEA) list1, list2
+      ')
+  ('
+    {[BLE-CATALOGUE-1 USB 1.0 (USBTYPEA) list1,list2
+      ')
+  ('
+    {[BLE-CATALOGUE-1 Usb 1.1 (USBTYPEB) list1,list2
+      ')
+  ('
+    {[BLE-CATALOGUE-1 usb 1.11 (USBTYPEC) list1,list2
+      ')
+  ('
+    {[BLE-CATALOGUE-2 usb 1.12 (USBTYPEC) list1,list2
+      ')
+  ('  
+    {[BLE-CATALOGUE-2 Usb 1.2 (USBTYPEB) list1,list2
+      ')
+  ('    
+    {[BLE-CATALOGUE-2 usb 2.0 (USBTYPEA) list1,list2
+      ')
+  ('  
+    {[BLE-CATALOGUE-1 USB 3.0 (USBTYPEA) list1, list2
+      ')
+  ('  
+    {[API-CATALOGUE-3 USB 3.0 (USBTYPEA) list1, list2
+      ')
+  }}
 {
-Switch Case (n) list1,list2 {
-
-  BLE-CATALOGUE-1 USB 3.0 (USBTYPEA) list1, list2
-  BLE-CATALOGUE-1 USB 1.0 (USBTYPEA) list1,list2
-  BLE-CATALOGUE-1 Usb 1.1 (USBTYPEB) list1,list2
-  BLE-CATALOGUE-1 usb 1.11 (USBTYPEC) list1,list2
-
-  BLE-CATALOGUE-2 usb 1.12 (USBTYPEC) list1,list2
-  BLE-CATALOGUE-2 Usb 1.2 (USBTYPEB) list1,list2
-  BLE-CATALOGUE-2 usb 2.0 (USBTYPEA) list1,list2
-  BLE-CATALOGUE-1 USB 3.0 (USBTYPEA) list1, list2
-  API-CATALOGUE-3 USB 3.0 (USBTYPEA) list1, list2
+  {
+}
 
 }
   xs: name="ENVIRONMENTAL_VARIABLE": xs: var="let 180c+181c+183c";
@@ -75,6 +95,7 @@ public function(
 
     {
     public function = Scrollbars('$Scrollbars');";
+    public function = Scrollbar('$Scrollbar');";
     }
   })
 })
@@ -85,5 +106,9 @@ ITERATOR
                             Public Function
                                }
 $This!-"This Device";
+}
+}
+}}
 </style>
 </php?>
+</table>
